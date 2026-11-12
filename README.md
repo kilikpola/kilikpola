@@ -1,58 +1,33 @@
-# Hey there! 👋 Welcome to my GitHub
+<!-- Profile README: place this file in a public repository named exactly `kilikpola`. --><h1 align="center">Hey there, I'm a curious builder 👋</h1><p align="center">
+  <em>Exploring technology, building practical projects, and learning something new every day.</em>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Python+%7C+Data+Science+%7C+Machine+Learning;Exploring+Computer+Vision+with+OpenCV;Learning+Web+Development;Turning+curiosity+into+projects" alt="A rotating introduction" />
+</p>About
+I'm a technology enthusiast interested in understanding how things work and using software to solve meaningful problems. I have a foundation in Python and enjoy exploring the connections between programming, data, science, and real-world applications.
 
+My main interests include:
+- Data Science & Machine Learning — finding useful patterns in data and learning how intelligent systems work.
+- Computer Vision — exploring image processing and visual computing with OpenCV.
+- Software & Web Development — learning how to turn ideas into useful applications.
+- Science & Technology — staying curious about new discoveries, tools, and innovations.
+What I'm Exploring
+Area	Topics and tools
+Programming	Python
+Data & AI	Data Science, Machine Learning
+Computer Vision	OpenCV, image processing
+Web Development	Vue.js, Flask, TypeScript
+Systems	Linux and open-source software
+
+
+I'm also interested in exploring how data science can be applied to areas such as pharmacy and health sciences.
+Beyond Coding
+I enjoy learning about emerging technologies and science, and I'm interested in making tech topics easier to understand through educational content.
+GitHub
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Curious+Mind+%7C+Tech+Enthusiast;Exploring+Data+Science+%26+AI;Building+with+Python+%26+Web+Technologies;Learning%2C+Building%2C+and+Innovating." />
+  <img src="https://github-readme-stats.vercel.app/api?username=kilikpola&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilikpola&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages" />
+</p><p align="center">
+  <a href="https://github.com/kilikpola">Explore my repositories on GitHub</a>
+</p><p align="center">
+  <em>Stay curious. Keep learning. Build things that matter.</em>
 </p>
-
-## 🚀 About Me
-
-I'm a technology enthusiast passionate about exploring how technology works and using it to solve real-world problems.
-
-- 🧠 Interested in **Artificial Intelligence and Machine Learning**
-- 📊 Exploring **Data Science and Data Analytics**
-- 🐍 Working with **Python**
-- 🌐 Interested in **Web Development and Software Engineering**
-- 🔬 Curious about science, innovation, and emerging technologies
-- 📚 Always learning, experimenting, and building new things.
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,vue,flask,opencv,html,css,git,github,linux,vscode" />
-</p>
-
-## 🎯 Current Interests
-
-- Artificial Intelligence & Machine Learning
-- Data Science and Data Visualization
-- Computer Vision
-- Backend Development
-- Open Source Projects
-- Emerging Technologies
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilikpola&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilikpola&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kilikpola&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🌱 My Philosophy
-
-> The best way to predict the future is to build it.
-
-I believe in continuous learning, curiosity, experimentation, and turning ideas into reality.
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/kilikpola">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-⭐ Thanks for visiting my profile. Feel free to explore my repositories!
