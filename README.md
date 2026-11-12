@@ -1,118 +1,101 @@
-# 👋 Hey, Welcome to My GitHub!
+# 🧬 Exploring Data, Intelligence & Technology
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Exploring+Artificial+Intelligence;Turning+Data+into+Insights;Curiosity+Driven+by+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Turning+Data+into+Knowledge;Curious+About+How+Things+Work" />
 </p>
 
 <p align="center">
-  <i>Exploring the intersection of data, intelligence, science, and technology.</i>
+  <img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-purple?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Open%20Source-Explorer-green?style=flat-square&logo=github" />
 </p>
 
 ---
 
-## 🧠 About Me
+### `$ whoami`
 
-I'm an aspiring Data Scientist with a strong interest in understanding the world through data, algorithms, and intelligent systems.
+An aspiring Data Scientist fascinated by the intersection of **data, artificial intelligence, science, and technology.**
 
-I'm passionate about exploring how data can uncover patterns, solve meaningful problems, and create opportunities for innovation.
+I enjoy exploring how data reveals hidden patterns, how algorithms learn from information, and how intelligent systems can help solve real-world problems.
 
-My interests extend beyond writing code. I enjoy understanding the science behind technologies, experimenting with ideas, and exploring how artificial intelligence can transform different fields.
+I'm continuously developing my skills through experimentation, research, and practical projects.
 
-- 📊 Exploring Data Science and Data Analytics.
-- 🤖 Learning about Machine Learning and Artificial Intelligence.
-- 🧠 Interested in Deep Learning and intelligent systems.
-- 👁️ Exploring Computer Vision and OpenCV.
-- 🐍 Building my foundation in Python and scientific computing.
-- 🔬 Interested in applying data science to scientific and real-world problems.
-- 💊 Exploring the intersection of Data Science, Healthcare, and Pharmacy.
-- 🌍 Passionate about emerging technologies and scientific discoveries.
+My curiosity goes beyond code — I'm interested in understanding the science, mathematics, and logic behind the technologies shaping our future.
 
----
+### 🔬 Research & Technical Interests
 
-## ⚙️ Tech Stack & Tools
-
-**Programming & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Data Science & Machine Learning**
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- OpenCV
-
-**Tools & Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
----
-
-## 🔍 Areas of Interest
-
-| Field | What I'm Exploring |
+| Domain | Interests |
 |---|---|
-| 📊 Data Science | Data analysis, exploration, and visualization |
-| 🤖 Machine Learning | Predictive models and intelligent algorithms |
-| 🧠 Artificial Intelligence | Intelligent systems and AI applications |
-| 👁️ Computer Vision | Image processing and visual intelligence |
-| 🧬 Deep Learning | Neural networks and representation learning |
-| 💊 Healthcare Data Science | Data-driven approaches to healthcare and pharmacy |
-| 🔬 Scientific Computing | Using computation to explore scientific problems |
+| 📊 Data Science | Data exploration, analysis, visualization |
+| 🤖 Machine Learning | Predictive modeling, algorithms |
+| 🧠 Artificial Intelligence | Intelligent systems, AI applications |
+| 🧬 Deep Learning | Neural networks, representation learning |
+| 👁️ Computer Vision | Image processing, OpenCV |
+| 💊 Health & Data Science | Healthcare analytics, pharmacy-related data |
+| 🔭 Scientific Computing | Computational methods and scientific discovery |
 
----
-
-## 🚀 What I'm Working Towards
-
-- Developing strong foundations in mathematics and statistics.
-- Improving my Python programming and problem-solving skills.
-- Learning how to clean, analyze, and visualize real-world datasets.
-- Understanding machine learning algorithms and their applications.
-- Exploring computer vision and deep learning.
-- Building practical data science projects.
-- Applying AI and data science to real-world challenges.
-
----
-
-## 📈 GitHub Analytics
+### ⚡ Technologies & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kilikpola&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilikpola&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kilikpola&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
+### 🧪 Current Exploration
 
-## 💡 My Mindset
+- Strengthening mathematical and statistical foundations.
+- Exploring data analysis with Python.
+- Learning machine learning algorithms.
+- Experimenting with computer vision.
+- Understanding neural networks and deep learning.
+- Exploring applications of data science in healthcare.
+- Building practical projects using real-world datasets.
 
-> "Data is not just numbers; it's a way of understanding the world."
-
-I believe in curiosity, continuous learning, experimentation, and building knowledge through practice.
-
-I'm here to learn, explore, experiment, and turn ideas into meaningful projects.
-
----
-
-## 🌐 Find Me
-
-<p>
-  <a href="https://github.com/kilikpola">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
+### 📊 GitHub Analytics
 
 <p align="center">
-  ⭐ Always learning. Always exploring. Always building.
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kilikpola&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilikpola&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=kilikpola&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kilikpola&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+### 🌌 Beyond the Code
+
+I believe some of the most interesting discoveries happen when different fields of knowledge meet.
+
+I'm particularly fascinated by:
+
+- The future of artificial intelligence.
+- The relationship between mathematics and machine learning.
+- How technology can advance scientific research.
+- The potential of data-driven healthcare.
+- Emerging technologies that could change how we understand the world.
+
+### 💭 A Thought I Believe In
+
+> "The goal is not just to collect data, but to understand the story it tells."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>Curiosity → Exploration → Knowledge → Innovation</b>
 </p>
